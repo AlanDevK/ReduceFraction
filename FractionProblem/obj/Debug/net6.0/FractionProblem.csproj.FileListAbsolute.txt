@@ -1,0 +1,15 @@
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\bin\Debug\net6.0\FractionProblem.exe
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\bin\Debug\net6.0\FractionProblem.deps.json
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\bin\Debug\net6.0\FractionProblem.runtimeconfig.json
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\bin\Debug\net6.0\FractionProblem.dll
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\bin\Debug\net6.0\FractionProblem.pdb
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\FractionProblem.csproj.AssemblyReference.cache
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\FractionProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\FractionProblem.AssemblyInfoInputs.cache
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\FractionProblem.AssemblyInfo.cs
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\FractionProblem.csproj.CoreCompileInputs.cache
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\FractionProblem.dll
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\refint\FractionProblem.dll
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\FractionProblem.pdb
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\FractionProblem.genruntimeconfig.cache
+D:\Phuong\Code\C#\FractionProblem\FractionProblem\obj\Debug\net6.0\ref\FractionProblem.dll
